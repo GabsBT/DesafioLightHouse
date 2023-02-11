@@ -1,0 +1,8 @@
+#Python3
+seaborn
+matplotlib.pyplot
+pandas
+scipy.stats
+scikit-learn
+sklearn
+
